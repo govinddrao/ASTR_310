@@ -19,5 +19,6 @@ dependencies:
   - tqdm
   - beautifulsoup4
   - nbconvert  # If needed for PDF export
+  - texlive-core 
 
 prefix: C:\Users\Govind\anaconda3\envs\notebook_env
